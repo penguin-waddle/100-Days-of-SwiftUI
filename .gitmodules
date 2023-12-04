@@ -1,0 +1,51 @@
+[submodule "WeSplit"]
+	path = WeSplit
+	url = https://github.com/penguin-waddle/WeSplit
+[submodule "Unit-Conversion"]
+	path = Unit-Conversion
+	url = https://github.com/penguin-waddle/Unit-Conversion
+[submodule "WordScramble"]
+	path = WordScramble
+	url = https://github.com/penguin-waddle/WordScramble
+[submodule "iExpense"]
+	path = iExpense
+	url = https://github.com/penguin-waddle/iExpense
+[submodule "Moonshot"]
+	path = Moonshot
+	url = https://github.com/penguin-waddle/Moonshot
+[submodule "HabitTracker"]
+	path = HabitTracker
+	url = https://github.com/penguin-waddle/HabitTracker
+[submodule "GuessTheFlag"]
+	path = GuessTheFlag
+	url = https://github.com/penguin-waddle/GuessTheFlag
+[submodule "Rock-Paper-Scissors"]
+	path = Rock-Paper-Scissors
+	url = https://github.com/penguin-waddle/Rock-Paper-Scissors
+[submodule "FaceLibrary"]
+	path = FaceLibrary
+	url = https://github.com/penguin-waddle/FaceLibrary
+[submodule "HotProspects"]
+	path = HotProspects
+	url = https://github.com/penguin-waddle/HotProspects
+[submodule "SnowSeeker"]
+	path = SnowSeeker
+	url = https://github.com/penguin-waddle/SnowSeeker
+[submodule "Flashzilla"]
+	path = Flashzilla
+	url = https://github.com/penguin-waddle/Flashzilla
+[submodule "LayoutAndGeometry"]
+	path = LayoutAndGeometry
+	url = https://github.com/penguin-waddle/LayoutAndGeometry
+[submodule "Bucketlist"]
+	path = Bucketlist
+	url = https://github.com/penguin-waddle/Bucketlist
+[submodule "FriendFace"]
+	path = FriendFace
+	url = https://github.com/penguin-waddle/FriendFace
+[submodule "Instafilter"]
+	path = Instafilter
+	url = https://github.com/penguin-waddle/Instafilter
+[submodule "Bookworm"]
+	path = Bookworm
+	url = https://github.com/penguin-waddle/Bookworm
